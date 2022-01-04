@@ -1,5 +1,5 @@
 # bsapiip
-Request to brawl stars API without allowed IP
+Request to brawl stars API without auth
 
 You can send requests to the Brawl Stars API from any IP without authorization'
 
